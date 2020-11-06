@@ -12,3 +12,6 @@ if x == "www.webdifine.com/browse":
 if x == "www.deb.com":
     print("Connecting to www.deb.com...")
     import deb
+if x == "www.google.com":
+	import googlecom
+	import WEBDIFINE
