@@ -15,3 +15,5 @@ if x == "www.deb.com":
 if x == "www.google.com":
 	import googlecom
 	import WEBDIFINE
+if x == "www.darkdocs.com":
+	import darkdarkcom
