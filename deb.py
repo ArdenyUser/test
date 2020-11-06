@@ -51,6 +51,43 @@ if x == "3":
         f = open("deb.lodet.config", "r")
         lodet = f.read()
         print(lodet)
+		o = input("@User")
+		print("We will come, hand us your money!")
+		print("ERROR FUNCTION 73538 NOT FOUND")
+		import deb
+    if num == "345":
+		print("Very nice pretty mat, great for homes. Enter your address!")
+		o = input("@User")
+		print("We will come, hand us your money!")
+		print("ERROR FUNCTION 73538 NOT FOUND")
+		import deb
+	if num == "001":
+		print("Game CD thatFUN. Enter addressssssssssssss.")
+		o = input("@User")
+		print("We will come, hand us your money!")
+		print("ERROR FUNCTION 73538 NOT FOUND")
+		import deb
+	if num == "987":
+		print("Ultra realistic 7 ft toy for kids! enter Adress")
+		o = input("@User")
+		print("We will come, hand us your money!")
+		print("ERROR FUNCTION 73538 NOT FOUND")
+	if num == "456":
+		print("Secure your device from DWeb frauds and theft! Enter WebDiFine Account:")
+		print("Web Name: ")
+    	k = input("@User: ")
+    	f = open("name.config", "r")
+    	name = f.read()
+    	if k == name:
+        	print("ID Password: ")
+        	v = input("@User: ")
+        	f = open("id.config", "r")
+        	idx = f.read()
+       	 	if v == idx:
+				print("INstalled!")
+	       
+        
+    
         
     
     
